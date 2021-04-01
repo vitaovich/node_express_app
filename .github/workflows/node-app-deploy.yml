@@ -16,7 +16,7 @@ on:
       - 'Policies/**'
 
 env:
-  AZURE_WEBAPP_NAME: node-gh-accelerator   # set this to your application's name
+  AZURE_WEBAPP_NAME: Node-4ixnifj3adcfy   # set this to your application's name
   AZURE_WEBAPP_PACKAGE_PATH: "application"      # set this to the path to your web app project, defaults to the repository root
   NODE_VERSION: '10.x'                # set this to the node version to use
 
